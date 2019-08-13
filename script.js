@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>JS Rocket</title>
-	<script type="text/javascript" src="js/script.js">
-		var car = {
+var car = {
 			make: 'Ferrari',
 			type: 'Testa Rosa',
 			color: 'red',
@@ -32,9 +27,3 @@
 			}
 		};
 	console.log('hello there friends!')
-	</script>
-</head>
-<body>
-<h1>hello js rocket</h1>
-</body>
-</html>
